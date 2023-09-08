@@ -37,10 +37,8 @@ The main scene of this app is like that in Figure 1. All the implementation deta
  
 
 
-
-<img width="176" alt="image" src="https://github.com/koushikreddykonda/IOS_TicketMaster_EventSearch/assets/122440945/72069bf1-7876-4ac4-b1d5-4145c5923458">
 Figure 1. The Event Search App
-
+<img width="176" alt="image" src="https://github.com/koushikreddykonda/IOS_TicketMaster_EventSearch/assets/122440945/72069bf1-7876-4ac4-b1d5-4145c5923458">
 
 <img width="182" alt="image" src="https://github.com/koushikreddykonda/IOS_TicketMaster_EventSearch/assets/122440945/15e970a4-db22-4039-8c50-74c173804fe6">
 Figure 2: Choose category from Drop down
