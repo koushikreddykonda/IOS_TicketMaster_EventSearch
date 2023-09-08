@@ -36,12 +36,12 @@ The main scene of this app is like that in Figure 1. All the implementation deta
  
  
 
-<img width="350" alt="image" src="https://github.com/koushikreddykonda/IOS_TicketMaster_EventSearch/assets/122440945/72069bf1-7876-4ac4-b1d5-4145c5923458">
+<img width="300" alt="image" src="https://github.com/koushikreddykonda/IOS_TicketMaster_EventSearch/assets/122440945/72069bf1-7876-4ac4-b1d5-4145c5923458">
 
 
-<img width="650" alt="image" src="https://github.com/koushikreddykonda/IOS_TicketMaster_EventSearch/assets/122440945/15e970a4-db22-4039-8c50-74c173804fe6">
+<img width="300" alt="image" src="https://github.com/koushikreddykonda/IOS_TicketMaster_EventSearch/assets/122440945/15e970a4-db22-4039-8c50-74c173804fe6">
 
-<img width="650" alt="image" src="https://github.com/koushikreddykonda/IOS_TicketMaster_EventSearch/assets/122440945/6beb313d-0fbf-46b4-96e9-4ee225234d76">
+<img width="300" alt="image" src="https://github.com/koushikreddykonda/IOS_TicketMaster_EventSearch/assets/122440945/6beb313d-0fbf-46b4-96e9-4ee225234d76">
 
 <img width="147" alt="image" src="https://github.com/koushikreddykonda/IOS_TicketMaster_EventSearch/assets/122440945/cd3a646e-e90c-412c-b86b-cd4a7a908db3">
 
