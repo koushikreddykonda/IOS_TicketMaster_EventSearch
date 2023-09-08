@@ -39,4 +39,5 @@ The main scene of this app is like that in Figure 1. All the implementation deta
 Figure 1. The Event Search App
 
 
-![image](https://github.com/koushikreddykonda/IOS_TicketMaster_EventSearch/assets/122440945/7a84b09e-ec08-46a5-9a56-45a078797fd5)
+<img width="176" alt="image" src="https://github.com/koushikreddykonda/IOS_TicketMaster_EventSearch/assets/122440945/72069bf1-7876-4ac4-b1d5-4145c5923458">
+
